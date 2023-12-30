@@ -9,8 +9,5 @@
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=emre-tarhan&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-#### Tech Stack
+## Tech Stack
 <img width="2230" alt="my tech stack" style="border-radius:16px" src="https://github.com/emre-tarhan/emre-tarhan/assets/106887102/ac4c49d8-349d-4552-a419-5540afeea30a">
-
-
-![quotation by siberfx](https://user-images.githubusercontent.com/106887102/188280982-e486de70-2b23-4979-ae40-e8785eacc37a.svg)
